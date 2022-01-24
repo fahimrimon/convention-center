@@ -35,3 +35,15 @@ nav{
     height: 300px;
     
 }
+footer{
+    background-color: black;
+    height: 150px;
+}
+.google-icon{
+    text-decoration: none;
+    
+}
+.app-store{
+    text-decoration: none;
+    margin-top: 15px;
+}
