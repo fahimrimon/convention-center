@@ -5,3 +5,13 @@ body{
 nav{
     background-color: #FF008E;
 }
+.banner-image{
+    height: 90vh;
+    opacity: 0.6;
+}
+.slide-text{
+    margin-bottom: 100px;
+}
+.home-text{
+    color: black;
+}
